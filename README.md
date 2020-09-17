@@ -1,8 +1,8 @@
-[![naverblog](https://img.sheilds.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/maengindex)
+![naverblog](https://img.sheilds.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)(http://blog.naver.com/maengindex)
 
 ![maeng24's github stats](https://github-readme-stats.vercel.app/api?username=maeng24&show_icons=true&title_color=99ffff&icon_color=6699ff&text_color=ffffff&bg_color=6666ff)
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj={})](https://solved.ac/maengindex)
+![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj={})(https://solved.ac/maengindex)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maeng24&layout=compact&hide=csharp)
 
