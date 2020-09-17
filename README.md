@@ -1,6 +1,7 @@
-### Hi there 👋
+![maeng24's github stats](https://github-readme-stats.vercel.app/api?username=maeng24&show_icons=true&title_color=99ffff&icon_color=6699ff&text_color=ffffff&bg_color=6666ff)
 
 <!--
+### Hi there 👋
 **maeng24/maeng24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
