@@ -1,4 +1,4 @@
-[![naverblog](https://img.sheilds.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/maengindex)
+[![naverblog](https://img.sheilds.io/badge/naverblog-badge?logo=Blogger&logoColor=white)](http://blog.naver.com/maengindex)
 
 ![maeng24's github stats](https://github-readme-stats.vercel.app/api?username=maeng24&show_icons=true&title_color=99ffff&icon_color=6699ff&text_color=ffffff&bg_color=6666ff)
 
